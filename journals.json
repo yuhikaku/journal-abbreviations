@@ -102,12 +102,6 @@
     "abbrevs": ["不法下民", "不法下民集"]
   },
   {
-    "id": "JOURNAL-2M6646",
-    "display_name": "中労時報",
-    "names": ["中央労働時報"],
-    "abbrevs": ["中労時", "中労時報"]
-  },
-  {
     "id": "JOURNAL-UBRMYL",
     "display_name": "主判解",
     "names": ["主要民事判例解説"],
@@ -193,7 +187,7 @@
   },
   {
     "id": "JOURNAL-V2BKJC",
-    "display_name": "公取排命集-or-排除命令集-or-排命集",
+    "display_name": "公取排命集",
     "names": ["公正取引委員会排除命令集"],
     "abbrevs": ["公取排命集", "排命集", "排除命令集"]
   },
@@ -320,10 +314,22 @@
     "abbrevs": []
   },
   {
+    "id": "JOURNAL-2M6646",
+    "display_name": "中労時報",
+    "names": ["中央労働時報"],
+    "abbrevs": ["中労時", "中労時報"]
+  },
+  {
     "id": "JOURNAL-4IV9GT",
     "display_name": "別冊中労時報",
     "names": ["別冊中央労働時報"],
     "abbrevs": ["別冊中労時", "別冊中労時報"]
+  },
+  {
+    "id": "JOURNAL-XWG956",
+    "display_name": "労旬",
+    "names": ["労働法律旬報"],
+    "abbrevs": ["労旬"]
   },
   {
     "id": "JOURNAL-S4YJLL",
@@ -360,12 +366,6 @@
     "display_name": "労働委員会関係裁判例集",
     "names": ["労働委員会関係裁判例集"],
     "abbrevs": []
-  },
-  {
-    "id": "JOURNAL-XWG956",
-    "display_name": "労旬",
-    "names": ["労働法律旬報"],
-    "abbrevs": ["労旬"]
   },
   {
     "id": "JOURNAL-L5RONV",
@@ -424,14 +424,8 @@
   {
     "id": "JOURNAL-CK9TIX",
     "display_name": "商事法務",
-    "names": ["商事法務"],
-    "abbrevs": []
-  },
-  {
-    "id": "JOURNAL-WW771Z",
-    "display_name": "商事法務研究",
-    "names": ["商事法務研究"],
-    "abbrevs": []
+    "names": ["商事法務", "旬刊商事法務"],
+    "abbrevs": ["商事"]
   },
   {
     "id": "JOURNAL-X6DJ9N",
@@ -1292,7 +1286,7 @@
   },
   {
     "id": "JOURNAL-7HD5ED",
-    "display_name": "裁決事例集-or-事例集",
+    "display_name": "裁決事例集",
     "names": ["国税不服審判所事例集"],
     "abbrevs": ["裁決事例集", "事例集"]
   },
@@ -1328,7 +1322,7 @@
   },
   {
     "id": "JOURNAL-M0G385",
-    "display_name": "資料商事法務-or-資料版商事",
+    "display_name": "資料版商事法務",
     "names": ["資料版商事法務", "資料版／商事法務"],
     "abbrevs": ["資料版商事", "資料商事法務"]
   },
