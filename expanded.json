@@ -1,0 +1,1609 @@
+[
+  {
+    "id": "JOURNAL-FN6JQY",
+    "display_name": "AIPPI",
+    "names": ["A.I.P.P.I."],
+    "abbrevs": ["AIPPI"]
+  },
+  {
+    "id": "JOURNAL-MX0LZ9",
+    "display_name": "",
+    "names": ["NBL"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-BIA5NK",
+    "display_name": "米法",
+    "names": ["アメリカ法"],
+    "abbrevs": ["米法"]
+  },
+  {
+    "id": "JOURNAL-LOZQL4",
+    "display_name": "",
+    "names": ["エコノミスト"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-17XZB0",
+    "display_name": "ケ研",
+    "names": ["ケース研究"],
+    "abbrevs": ["ケ研"]
+  },
+  {
+    "id": "JOURNAL-H6I07I",
+    "display_name": "コピ",
+    "names": ["コピライト"],
+    "abbrevs": ["コピ"]
+  },
+  {
+    "id": "JOURNAL-6YNLTW",
+    "display_name": "シュト",
+    "names": ["シュトイエル"],
+    "abbrevs": ["シュト"]
+  },
+  {
+    "id": "JOURNAL-T5N70V",
+    "display_name": "ジュリ",
+    "names": ["ジュリスト"],
+    "abbrevs": ["ジュリ"]
+  },
+  {
+    "id": "JOURNAL-1Z4Z74",
+    "display_name": "パテ",
+    "names": ["パテント"],
+    "abbrevs": ["パテ"]
+  },
+  {
+    "id": "JOURNAL-3DSOHR",
+    "display_name": "民研",
+    "names": ["みんけん"],
+    "abbrevs": ["民研"]
+  },
+  {
+    "id": "JOURNAL-E258SA",
+    "display_name": "レファ",
+    "names": ["レファレンス"],
+    "abbrevs": ["レファ"]
+  },
+  {
+    "id": "JOURNAL-AUNTSC",
+    "display_name": "下刑集",
+    "names": ["下級裁判所刑事裁判例集"],
+    "abbrevs": ["下刑", "下刑集"]
+  },
+  {
+    "id": "JOURNAL-0RNCWF",
+    "display_name": "下民集",
+    "names": ["下級裁判所民事裁判例集"],
+    "abbrevs": ["下民", "下民集"]
+  },
+  {
+    "id": "JOURNAL-VWS8IN",
+    "display_name": "不セ",
+    "names": ["不動産法律セミナー"],
+    "abbrevs": ["不セ"]
+  },
+  {
+    "id": "JOURNAL-6CAUNQ",
+    "display_name": "鑑定",
+    "names": ["不動産鑑定"],
+    "abbrevs": ["鑑定"]
+  },
+  {
+    "id": "JOURNAL-KGVTX1",
+    "display_name": "命令集",
+    "names": ["不当労働行為事件命令集"],
+    "abbrevs": ["命令集"]
+  },
+  {
+    "id": "JOURNAL-5ZDW24",
+    "display_name": "不法下民集",
+    "names": ["不法行為に関する下級裁判所民事裁判例集"],
+    "abbrevs": ["不法下民", "不法下民集"]
+  },
+  {
+    "id": "JOURNAL-2M6646",
+    "display_name": "中労時報",
+    "names": ["中央労働時報"],
+    "abbrevs": ["中労時", "中労時報"]
+  },
+  {
+    "id": "JOURNAL-UBRMYL",
+    "display_name": "主判解",
+    "names": ["主要民事判例解説"],
+    "abbrevs": ["主判解"]
+  },
+  {
+    "id": "JOURNAL-VH9XX6",
+    "display_name": "交通下民",
+    "names": ["交通事故による不法行為に関する下級裁判所民事裁判例集"],
+    "abbrevs": ["交通下民"]
+  },
+  {
+    "id": "JOURNAL-D07AGT",
+    "display_name": "交民集",
+    "names": ["交通事故民事裁判例集"],
+    "abbrevs": ["交民", "交民集", "交通民集"]
+  },
+  {
+    "id": "JOURNAL-EXHXEU",
+    "display_name": "交通",
+    "names": ["交通法研究"],
+    "abbrevs": ["交通"]
+  },
+  {
+    "id": "JOURNAL-OY71TX",
+    "display_name": "人月",
+    "names": ["人事院月報"],
+    "abbrevs": ["人月"]
+  },
+  {
+    "id": "JOURNAL-G1JDRI",
+    "display_name": "人権",
+    "names": ["人権のひろば"],
+    "abbrevs": ["人権"]
+  },
+  {
+    "id": "JOURNAL-TE31LR",
+    "display_name": "企会",
+    "names": ["企業会計"],
+    "abbrevs": ["企会"]
+  },
+  {
+    "id": "JOURNAL-YWGG8C",
+    "display_name": "企法",
+    "names": ["企業法研究"],
+    "abbrevs": ["企法"]
+  },
+  {
+    "id": "JOURNAL-A7VHSC",
+    "display_name": "",
+    "names": ["保育情報"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-SFHCS5",
+    "display_name": "",
+    "names": ["信託"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-JNZXX8",
+    "display_name": "信研",
+    "names": ["信託法研究"],
+    "abbrevs": ["信研"]
+  },
+  {
+    "id": "JOURNAL-VMRM7Z",
+    "display_name": "",
+    "names": ["公害等調整委員会"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-7FMJFJ",
+    "display_name": "",
+    "names": ["公害紛争処理白書"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-MD20BC",
+    "display_name": "",
+    "names": ["公害紛争処理白書平成元年版"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-RFMQGA",
+    "display_name": "審決集",
+    "names": ["公正取引委員会審決集"],
+    "abbrevs": ["審決集"]
+  },
+  {
+    "id": "JOURNAL-V2BKJC",
+    "display_name": "公取排命集-or-排除命令集-or-排命集",
+    "names": ["公正取引委員会排除命令集"],
+    "abbrevs": ["公取排命集", "排命集", "排除命令集"]
+  },
+  {
+    "id": "JOURNAL-XCC83D",
+    "display_name": "公法",
+    "names": ["公法研究"],
+    "abbrevs": ["公法"]
+  },
+  {
+    "id": "JOURNAL-XCBD8E",
+    "display_name": "公益",
+    "names": ["公益法人"],
+    "abbrevs": ["公益"]
+  },
+  {
+    "id": "JOURNAL-3DNBH6",
+    "display_name": "",
+    "names": ["公証"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-N2L4DX",
+    "display_name": "公証法",
+    "names": ["公証法学"],
+    "abbrevs": ["公証法"]
+  },
+  {
+    "id": "JOURNAL-MZ5PGA",
+    "display_name": "刑月",
+    "names": ["刑事裁判月報"],
+    "abbrevs": ["刑月"]
+  },
+  {
+    "id": "JOURNAL-RSPNPG",
+    "display_name": "刑資",
+    "names": ["刑事裁判資料"],
+    "abbrevs": ["刑資"]
+  },
+  {
+    "id": "JOURNAL-WEYS7J",
+    "display_name": "",
+    "names": ["刑政"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-XRGLK4",
+    "display_name": "刑法",
+    "names": ["刑法雑誌"],
+    "abbrevs": ["刑法"]
+  },
+  {
+    "id": "JOURNAL-70ZH08",
+    "display_name": "セレクト",
+    "names": ["判例セレクト"],
+    "abbrevs": ["セレクト"]
+  },
+  {
+    "id": "JOURNAL-6GQMX4",
+    "display_name": "判タ",
+    "names": ["判例タイムズ"],
+    "abbrevs": ["判タ"]
+  },
+  {
+    "id": "JOURNAL-PE751V",
+    "display_name": "体系",
+    "names": ["判例体系"],
+    "abbrevs": ["体系"]
+  },
+  {
+    "id": "JOURNAL-K59AGI",
+    "display_name": "判自",
+    "names": ["判例地方自治"],
+    "abbrevs": ["判自", "判例自治", "地方自治"]
+  },
+  {
+    "id": "JOURNAL-970JUV",
+    "display_name": "判工",
+    "names": ["判例工業所有権法"],
+    "abbrevs": ["判工"]
+  },
+  {
+    "id": "JOURNAL-0BB1UN",
+    "display_name": "判工第2期版",
+    "names": [
+      "判例工業所有権法第2期版",
+      "判例工業所有権法2期版",
+      "判例工業所有権法2期",
+      "判例工業所有権法（第2期版）",
+      "判例工業所有権法（2期版）",
+      "判例工業所有権法（2期）"
+    ],
+    "abbrevs": [
+      "判工第2期版",
+      "判工2期版",
+      "判工2期",
+      "判工（第2期版）",
+      "判工（2期版）",
+      "判工（2期）"
+    ]
+  },
+  {
+    "id": "JOURNAL-VE0C9D",
+    "display_name": "判時",
+    "names": ["判例時報"],
+    "abbrevs": ["判時"]
+  },
+  {
+    "id": "JOURNAL-0781DH",
+    "display_name": "判時臨増",
+    "names": ["判例時報臨時増刊"],
+    "abbrevs": ["判例時報臨増", "判時臨増"]
+  },
+  {
+    "id": "JOURNAL-V0NZZL",
+    "display_name": "判評",
+    "names": ["判例評論"],
+    "abbrevs": ["判評"]
+  },
+  {
+    "id": "JOURNAL-TG29T3",
+    "display_name": "",
+    "names": ["判例集未登載"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-4IV9GT",
+    "display_name": "別冊中労時報",
+    "names": ["別冊中央労働時報"],
+    "abbrevs": ["別冊中労時", "別冊中労時報"]
+  },
+  {
+    "id": "JOURNAL-S4YJLL",
+    "display_name": "労旬別冊",
+    "names": ["別冊労働法律旬報", "労働法律旬報別冊"],
+    "abbrevs": ["労旬別冊"]
+  },
+  {
+    "id": "JOURNAL-S9NVXW",
+    "display_name": "",
+    "names": ["労働保険審査会裁決集"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-F73C7D",
+    "display_name": "労判カード",
+    "names": ["労働判例カード"],
+    "abbrevs": ["労判カード"]
+  },
+  {
+    "id": "JOURNAL-6I9I7L",
+    "display_name": "労判",
+    "names": ["労働判例", "労働判例カード"],
+    "abbrevs": ["労判", "労判カード"]
+  },
+  {
+    "id": "JOURNAL-J6QAJH",
+    "display_name": "労ジャ",
+    "names": ["労働判例ジャーナル"],
+    "abbrevs": ["労判ジャーナル", "ジャーナル", "労ジャ", "労判ジャ"]
+  },
+  {
+    "id": "JOURNAL-PFE5OZ",
+    "display_name": "",
+    "names": ["労働委員会関係裁判例集"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-XWG956",
+    "display_name": "労旬",
+    "names": ["労働法律旬報"],
+    "abbrevs": ["労旬"]
+  },
+  {
+    "id": "JOURNAL-L5RONV",
+    "display_name": "労経速",
+    "names": ["労働経済判例速報"],
+    "abbrevs": ["労経速", "労経速報"]
+  },
+  {
+    "id": "JOURNAL-MPSMYG",
+    "display_name": "労刑決",
+    "names": ["労働関係刑事事件判例集", "労働関係刑事事件判決集"],
+    "abbrevs": ["労刑決"]
+  },
+  {
+    "id": "JOURNAL-RXB1PB",
+    "display_name": "労裁刑資",
+    "names": ["労働関係刑事裁判資料"],
+    "abbrevs": ["労裁刑資"]
+  },
+  {
+    "id": "JOURNAL-F7WT57",
+    "display_name": "労裁集",
+    "names": ["労働関係民事事件裁判集"],
+    "abbrevs": ["労裁", "労裁集"]
+  },
+  {
+    "id": "JOURNAL-D66ADV",
+    "display_name": "労裁資",
+    "names": ["労働関係民事行政裁判資料"],
+    "abbrevs": ["労裁資"]
+  },
+  {
+    "id": "JOURNAL-LAF6WH",
+    "display_name": "労民集",
+    "names": ["労働関係民事裁判例集"],
+    "abbrevs": ["労民", "労民集"]
+  },
+  {
+    "id": "JOURNAL-TPVVWP",
+    "display_name": "",
+    "names": ["医療過誤民事裁判例集"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-SG5QOT",
+    "display_name": "受新",
+    "names": ["受験新報"],
+    "abbrevs": ["受新"]
+  },
+  {
+    "id": "JOURNAL-YS44LW",
+    "display_name": "司研",
+    "names": ["司法研修所論集"],
+    "abbrevs": ["司研"]
+  },
+  {
+    "id": "JOURNAL-CK9TIX",
+    "display_name": "",
+    "names": ["商事法務"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-WW771Z",
+    "display_name": "",
+    "names": ["商事法務研究"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-X6DJ9N",
+    "display_name": "国税例集",
+    "names": ["国税徴収関係判例集"],
+    "abbrevs": ["国税例集"]
+  },
+  {
+    "id": "JOURNAL-XKJLUE",
+    "display_name": "図月",
+    "names": ["国立国会図書館月報"],
+    "abbrevs": ["図月"]
+  },
+  {
+    "id": "JOURNAL-OHK3ZM",
+    "display_name": "際商",
+    "names": ["国際商事法務"],
+    "abbrevs": ["際商"]
+  },
+  {
+    "id": "JOURNAL-L9818K",
+    "display_name": "際政",
+    "names": ["国際政治"],
+    "abbrevs": ["際政"]
+  },
+  {
+    "id": "JOURNAL-WAWR88",
+    "display_name": "国際",
+    "names": ["国際法外交雑誌"],
+    "abbrevs": ["国際"]
+  },
+  {
+    "id": "JOURNAL-MIIIK3",
+    "display_name": "",
+    "names": ["国際私法関係事件裁判例集"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-P7YATD",
+    "display_name": "",
+    "names": ["地方公務員人事判定集"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-MHJB11",
+    "display_name": "職研",
+    "names": ["地方自治職員研修"],
+    "abbrevs": ["職研"]
+  },
+  {
+    "id": "JOURNAL-NT0J4L",
+    "display_name": "外法",
+    "names": ["外国の立法"],
+    "abbrevs": ["外法"]
+  },
+  {
+    "id": "JOURNAL-VYK59G",
+    "display_name": "刑抄録",
+    "names": ["大審院刑事判決抄録"],
+    "abbrevs": ["刑抄録"]
+  },
+  {
+    "id": "JOURNAL-QD4ARD",
+    "display_name": "刑録",
+    "names": ["大審院刑事判決録"],
+    "abbrevs": ["刑録"]
+  },
+  {
+    "id": "JOURNAL-XZACLI",
+    "display_name": "判決全集",
+    "names": ["大審院判決全集"],
+    "abbrevs": ["判決全集"]
+  },
+  {
+    "id": "JOURNAL-HC25PW",
+    "display_name": "民抄録",
+    "names": ["大審院民事判決抄録"],
+    "abbrevs": ["民抄録"]
+  },
+  {
+    "id": "JOURNAL-G67687",
+    "display_name": "民録",
+    "names": ["大審院民事判決録"],
+    "abbrevs": ["民録"]
+  },
+  {
+    "id": "JOURNAL-GZK2D8",
+    "display_name": "裁判例",
+    "names": ["大審院裁判例", "大審院裁判例（法律新聞別冊）"],
+    "abbrevs": ["裁判例"]
+  },
+  {
+    "id": "JOURNAL-8WD6PG",
+    "display_name": "",
+    "names": ["大本七十年史編纂会・第2次大本教事件に関する資料（二）"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-U3X12M",
+    "display_name": "不研",
+    "names": ["季刊不動産研究"],
+    "abbrevs": ["不研"]
+  },
+  {
+    "id": "JOURNAL-YFVU2L",
+    "display_name": "季人",
+    "names": ["季刊人事行政"],
+    "abbrevs": ["季人"]
+  },
+  {
+    "id": "JOURNAL-2DNEA1",
+    "display_name": "債管",
+    "names": ["季刊債権管理"],
+    "abbrevs": ["債管"]
+  },
+  {
+    "id": "JOURNAL-NZEN1M",
+    "display_name": "刑弁",
+    "names": ["季刊刑事弁護"],
+    "abbrevs": ["刑弁"]
+  },
+  {
+    "id": "JOURNAL-7LSFDY",
+    "display_name": "季労",
+    "names": ["季刊労働法"],
+    "abbrevs": ["季労"]
+  },
+  {
+    "id": "JOURNAL-KOK4J1",
+    "display_name": "季教",
+    "names": ["季刊教育法"],
+    "abbrevs": ["季教"]
+  },
+  {
+    "id": "JOURNAL-LB3ZMS",
+    "display_name": "",
+    "names": ["学校事故・学生処分判例集"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-EQPP3C",
+    "display_name": "",
+    "names": ["官報"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-458KZ7",
+    "display_name": "家判",
+    "names": ["家庭の法と裁判"],
+    "abbrevs": ["家判"]
+  },
+  {
+    "id": "JOURNAL-KER9XH",
+    "display_name": "家裁月報",
+    "names": ["家庭裁判所月報"],
+    "abbrevs": ["家裁月報"]
+  },
+  {
+    "id": "JOURNAL-NF0YEZ",
+    "display_name": "家月",
+    "names": ["家庭裁判月報"],
+    "abbrevs": ["家月"]
+  },
+  {
+    "id": "JOURNAL-M6JSJC",
+    "display_name": "家族",
+    "names": ["家族〈社会と法〉"],
+    "abbrevs": ["家族"]
+  },
+  {
+    "id": "JOURNAL-TPTMHZ",
+    "display_name": "",
+    "names": ["審決公報"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-N0U43D",
+    "display_name": "取消集",
+    "names": ["審決取消訴訟判決集"],
+    "abbrevs": ["取消集"]
+  },
+  {
+    "id": "JOURNAL-NPS4ZD",
+    "display_name": "不競判",
+    "names": ["小関敏正「不正競業法判例集」［1967］"],
+    "abbrevs": ["不競判"]
+  },
+  {
+    "id": "JOURNAL-YG1PZC",
+    "display_name": "工所法",
+    "names": ["工業所有権法学会年報"],
+    "abbrevs": ["工所法"]
+  },
+  {
+    "id": "JOURNAL-UBPZBS",
+    "display_name": "医事法",
+    "names": ["年報医事法学"],
+    "abbrevs": ["医事法"]
+  },
+  {
+    "id": "JOURNAL-F2J286",
+    "display_name": "",
+    "names": ["愛知学院大学宗教法制研究所紀要"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-M5EUVB",
+    "display_name": "憲問",
+    "names": ["憲法問題"],
+    "abbrevs": ["憲問"]
+  },
+  {
+    "id": "JOURNAL-E9AEHI",
+    "display_name": "戸時",
+    "names": ["戸籍時報"],
+    "abbrevs": ["戸時"]
+  },
+  {
+    "id": "JOURNAL-4M936E",
+    "display_name": "",
+    "names": ["手形研究"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-DX51N6",
+    "display_name": "控上刑",
+    "names": ["控訴院上告刑事判例集"],
+    "abbrevs": ["控上刑"]
+  },
+  {
+    "id": "JOURNAL-62QXZP",
+    "display_name": "控上民",
+    "names": ["控訴院上告民事判例集"],
+    "abbrevs": ["控上民"]
+  },
+  {
+    "id": "JOURNAL-YJ9KPR",
+    "display_name": "推計裁集",
+    "names": ["推計の合理性に関する裁判例集成"],
+    "abbrevs": ["推計裁集"]
+  },
+  {
+    "id": "JOURNAL-IV6WWQ",
+    "display_name": "",
+    "names": ["損保企画"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-KEBUHA",
+    "display_name": "損保",
+    "names": ["損害保険研究"],
+    "abbrevs": ["損保", "損保研究"]
+  },
+  {
+    "id": "JOURNAL-6ZDWSO",
+    "display_name": "",
+    "names": ["教職員人事関係裁判例集"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-G2PI8Z",
+    "display_name": "",
+    "names": ["教育裁判判例集Ⅱ", "教育裁判判例集II", "教育裁判判例集2"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-JM6Y85",
+    "display_name": "新研",
+    "names": ["新聞研究"],
+    "abbrevs": ["新研"]
+  },
+  {
+    "id": "JOURNAL-O4YXJH",
+    "display_name": "日仏",
+    "names": ["日仏法学"],
+    "abbrevs": ["日仏"]
+  },
+  {
+    "id": "JOURNAL-C2MUXS",
+    "display_name": "日不",
+    "names": ["日本不動産学会誌"],
+    "abbrevs": ["日不"]
+  },
+  {
+    "id": "JOURNAL-4BPT74",
+    "display_name": "学会誌労働法",
+    "names": ["日本労働法学会誌"],
+    "abbrevs": ["労働", "学会誌労働法"]
+  },
+  {
+    "id": "JOURNAL-1JW3V4",
+    "display_name": "労研",
+    "names": ["日本労働研究雑誌"],
+    "abbrevs": ["労研"]
+  },
+  {
+    "id": "JOURNAL-AXX5I5",
+    "display_name": "国経法",
+    "names": ["日本国際経済法学会年報"],
+    "abbrevs": ["国経法"]
+  },
+  {
+    "id": "JOURNAL-SNOQMZ",
+    "display_name": "",
+    "names": ["日本政治裁判史録（昭和・前）"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-D36T23",
+    "display_name": "教法",
+    "names": ["日本教育法学会年報"],
+    "abbrevs": ["教法"]
+  },
+  {
+    "id": "JOURNAL-FNY0MH",
+    "display_name": "経法",
+    "names": ["日本経済法学会年報"],
+    "abbrevs": ["経法"]
+  },
+  {
+    "id": "JOURNAL-2O2XK4",
+    "display_name": "",
+    "names": ["日本音楽著作権協会会報"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-MNCE9Q",
+    "display_name": "時法",
+    "names": ["時の法令"],
+    "abbrevs": ["時法"]
+  },
+  {
+    "id": "JOURNAL-FH8X8B",
+    "display_name": "更生",
+    "names": ["更生保護"],
+    "abbrevs": ["更生"]
+  },
+  {
+    "id": "JOURNAL-SMEO68",
+    "display_name": "更犯",
+    "names": ["更生保護と犯罪予防"],
+    "abbrevs": ["更犯"]
+  },
+  {
+    "id": "JOURNAL-B9JN9L",
+    "display_name": "書研",
+    "names": ["書研所報"],
+    "abbrevs": ["書研"]
+  },
+  {
+    "id": "JOURNAL-M2XAD8",
+    "display_name": "著判",
+    "names": ["最新著作権関係判例集"],
+    "abbrevs": ["著判"]
+  },
+  {
+    "id": "JOURNAL-BJ4BPY",
+    "display_name": "最高民要旨",
+    "names": ["最高裁判所・高等裁判所民事判例要旨集"],
+    "abbrevs": ["最高民要旨"]
+  },
+  {
+    "id": "JOURNAL-AL9B7Z",
+    "display_name": "刑集",
+    "names": ["最高裁判所刑事判例集", "大審院刑事判例集"],
+    "abbrevs": ["刑集"]
+  },
+  {
+    "id": "JOURNAL-SKVVDJ",
+    "display_name": "民集",
+    "names": ["最高裁判所民事判例集", "大審院民事判例集"],
+    "abbrevs": ["民集"]
+  },
+  {
+    "id": "JOURNAL-DWWSE5",
+    "display_name": "最刑要旨",
+    "names": ["最高裁判所裁判集（刑事）要旨集"],
+    "abbrevs": ["最刑要旨"]
+  },
+  {
+    "id": "JOURNAL-WIGYTZ",
+    "display_name": "最民要旨",
+    "names": ["最高裁判所裁判集（民事）要旨集"],
+    "abbrevs": ["最民要旨"]
+  },
+  {
+    "id": "JOURNAL-UT23P7",
+    "display_name": "集刑",
+    "names": ["最高裁判所裁判集刑事"],
+    "abbrevs": ["裁判集刑", "裁判集刑事", "集刑"]
+  },
+  {
+    "id": "JOURNAL-HVNCXG",
+    "display_name": "集民",
+    "names": ["最高裁判所裁判集民事"],
+    "abbrevs": ["裁判集民", "裁判集民事", "集民"]
+  },
+  {
+    "id": "JOURNAL-VDHZFG",
+    "display_name": "",
+    "names": ["月刊生徒指導"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-63LM8N",
+    "display_name": "監査",
+    "names": ["月刊監査役"],
+    "abbrevs": ["監査"]
+  },
+  {
+    "id": "JOURNAL-3OPVMD",
+    "display_name": "朝高録",
+    "names": ["朝鮮高等法院判決録"],
+    "abbrevs": ["朝高録"]
+  },
+  {
+    "id": "JOURNAL-IY9LGB",
+    "display_name": "東高刑時報",
+    "names": [
+      "東京高等裁判所判決時報　刑事",
+      "東京高等裁判所判決時報刑事",
+      "東京高等裁判所刑事判決時報",
+      "東京高等裁判所（刑事）判決時報"
+    ],
+    "abbrevs": [
+      "東高刑時報",
+      "東高刑集時報",
+      "東京高刑時報",
+      "東高刑",
+      "東高時報",
+      "東高判時報"
+    ]
+  },
+  {
+    "id": "JOURNAL-1LEJQY",
+    "display_name": "東高民時報",
+    "names": [
+      "東京高等裁判所判決時報　民事",
+      "東京高等裁判所判決時報民事",
+      "東京高等裁判所民事判決時報",
+      "東京高等裁判所（民事）判決時報"
+    ],
+    "abbrevs": ["東高民", "東高民時報"]
+  },
+  {
+    "id": "JOURNAL-16S3VG",
+    "display_name": "比較",
+    "names": ["比較法研究"],
+    "abbrevs": ["比較"]
+  },
+  {
+    "id": "JOURNAL-L6F1S5",
+    "display_name": "民主解",
+    "names": ["民事主要判例解説"],
+    "abbrevs": ["民主解"]
+  },
+  {
+    "id": "JOURNAL-5WABUU",
+    "display_name": "民月",
+    "names": ["民事月報"],
+    "abbrevs": ["民月"]
+  },
+  {
+    "id": "JOURNAL-697U5Z",
+    "display_name": "民情",
+    "names": ["民事法情報"],
+    "abbrevs": ["民情"]
+  },
+  {
+    "id": "JOURNAL-BN98HI",
+    "display_name": "民資",
+    "names": ["民事裁判資料"],
+    "abbrevs": ["民資"]
+  },
+  {
+    "id": "JOURNAL-FHTWWN",
+    "display_name": "民訴雑誌",
+    "names": ["民事訴訟雑誌"],
+    "abbrevs": ["民訴", "民訴雑誌"]
+  },
+  {
+    "id": "JOURNAL-TUYFP1",
+    "display_name": "民商",
+    "names": ["民商法雑誌"],
+    "abbrevs": ["民商"]
+  },
+  {
+    "id": "JOURNAL-EY4MRY",
+    "display_name": "法コン",
+    "names": ["法とコンピュータ"],
+    "abbrevs": ["法コン"]
+  },
+  {
+    "id": "JOURNAL-6B07PR",
+    "display_name": "法民",
+    "names": ["法と民主主義"],
+    "abbrevs": ["法民"]
+  },
+  {
+    "id": "JOURNAL-8CYLLP",
+    "display_name": "法精",
+    "names": ["法と精神医療"],
+    "abbrevs": ["法精"]
+  },
+  {
+    "id": "JOURNAL-XVYBN3",
+    "display_name": "法科",
+    "names": ["法の科学"],
+    "abbrevs": ["法科"]
+  },
+  {
+    "id": "JOURNAL-610OZ9",
+    "display_name": "法資",
+    "names": ["法令解説資料総覧"],
+    "abbrevs": ["法資"]
+  },
+  {
+    "id": "JOURNAL-V8B09M",
+    "display_name": "法史",
+    "names": ["法制史研究"],
+    "abbrevs": ["法史"]
+  },
+  {
+    "id": "JOURNAL-SC617J",
+    "display_name": "法哲",
+    "names": ["法哲学年報"],
+    "abbrevs": ["法哲"]
+  },
+  {
+    "id": "JOURNAL-VLKH0Z",
+    "display_name": "法学",
+    "names": ["法学（東北帝国大学法学会）"],
+    "abbrevs": ["法学"]
+  },
+  {
+    "id": "JOURNAL-QLGKCQ",
+    "display_name": "法セ",
+    "names": ["法学セミナー"],
+    "abbrevs": ["法セ", "法セミ"]
+  },
+  {
+    "id": "JOURNAL-GY8KG1",
+    "display_name": "法教",
+    "names": ["法学教室"],
+    "abbrevs": ["法教"]
+  },
+  {
+    "id": "JOURNAL-YOQQPA",
+    "display_name": "",
+    "names": ["法学新報"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-UIA5G2",
+    "display_name": "ひろば",
+    "names": ["法律のひろば"],
+    "abbrevs": ["ひろば"]
+  },
+  {
+    "id": "JOURNAL-4XYTPU",
+    "display_name": "評論",
+    "names": ["法律評論", "法律学説判例評論全集"],
+    "abbrevs": ["評論", "評論全集", "法律評論全集"]
+  },
+  {
+    "id": "JOURNAL-4C0L2K",
+    "display_name": "",
+    "names": ["法律新報"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-8VVOCJ",
+    "display_name": "新聞",
+    "names": ["法律新聞"],
+    "abbrevs": ["新聞"]
+  },
+  {
+    "id": "JOURNAL-QBUNCN",
+    "display_name": "法時",
+    "names": ["法律時報"],
+    "abbrevs": ["法時"]
+  },
+  {
+    "id": "JOURNAL-GDNOST",
+    "display_name": "",
+    "names": ["法曹"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-0FBBCV",
+    "display_name": "曹時",
+    "names": ["法曹時報"],
+    "abbrevs": ["曹時"]
+  },
+  {
+    "id": "JOURNAL-B62071",
+    "display_name": "",
+    "names": ["法曹新聞"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-L0T7VQ",
+    "display_name": "法社",
+    "names": ["法社会学"],
+    "abbrevs": ["法社"]
+  },
+  {
+    "id": "JOURNAL-6UWVJI",
+    "display_name": "",
+    "names": ["海事法研究会誌"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-0M4ZH5",
+    "display_name": "無体裁集",
+    "names": ["無体財産権関係民事・行政裁判例集"],
+    "abbrevs": ["無体集", "無体例集", "無体裁集"]
+  },
+  {
+    "id": "JOURNAL-GAL6P0",
+    "display_name": "",
+    "names": ["特許と企業"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-F3J56O",
+    "display_name": "特研",
+    "names": ["特許研究"],
+    "abbrevs": ["特研"]
+  },
+  {
+    "id": "JOURNAL-UQGJL4",
+    "display_name": "特許",
+    "names": ["特許管理", "特許管理別冊判例集"],
+    "abbrevs": ["特許"]
+  },
+  {
+    "id": "JOURNAL-U86T27",
+    "display_name": "犯非",
+    "names": ["犯罪と非行"],
+    "abbrevs": ["犯非"]
+  },
+  {
+    "id": "JOURNAL-56XXKW",
+    "display_name": "現刑",
+    "names": ["現代刑事法"],
+    "abbrevs": ["現刑"]
+  },
+  {
+    "id": "JOURNAL-OJGPVF",
+    "display_name": "生保",
+    "names": ["生命保険協会会報"],
+    "abbrevs": ["生保", "生保会報"]
+  },
+  {
+    "id": "JOURNAL-BA1L3V",
+    "display_name": "",
+    "names": ["登記先例解説集"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-VJJG7X",
+    "display_name": "登情",
+    "names": ["登記情報"],
+    "abbrevs": ["登情"]
+  },
+  {
+    "id": "JOURNAL-Q301HJ",
+    "display_name": "登研",
+    "names": ["登記研究"],
+    "abbrevs": ["登研"]
+  },
+  {
+    "id": "JOURNAL-DLD88F",
+    "display_name": "登記先例",
+    "names": ["登記関係先例集"],
+    "abbrevs": ["登記先例"]
+  },
+  {
+    "id": "JOURNAL-QXSG1F",
+    "display_name": "直税要集",
+    "names": ["直税国税課税判決要旨集"],
+    "abbrevs": ["直税要集"]
+  },
+  {
+    "id": "JOURNAL-6HM498",
+    "display_name": "知的裁集",
+    "names": ["知的財産権関係民事・行政裁判例集"],
+    "abbrevs": ["知財集", "知財例集", "知的裁", "知裁集", "知的裁集"]
+  },
+  {
+    "id": "JOURNAL-8JCPIQ",
+    "display_name": "知管",
+    "names": ["知財管理"],
+    "abbrevs": ["知管"]
+  },
+  {
+    "id": "JOURNAL-MV370Z",
+    "display_name": "",
+    "names": ["研修"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-8GTQQJ",
+    "display_name": "",
+    "names": ["社会保険審査会裁決集"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-I82JCS",
+    "display_name": "社保",
+    "names": ["社会保障法"],
+    "abbrevs": ["社保"]
+  },
+  {
+    "id": "JOURNAL-XTYIX1",
+    "display_name": "",
+    "names": ["私法"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-A53K4M",
+    "display_name": "リマークス",
+    "names": ["私法判例リマークス"],
+    "abbrevs": ["リマークス"]
+  },
+  {
+    "id": "JOURNAL-YCABOR",
+    "display_name": "科警",
+    "names": ["科学警察研究所報告"],
+    "abbrevs": ["科警"]
+  },
+  {
+    "id": "JOURNAL-D4ID7Z",
+    "display_name": "租税",
+    "names": ["租税法研究"],
+    "abbrevs": ["租税"]
+  },
+  {
+    "id": "JOURNAL-MOSST0",
+    "display_name": "税弘",
+    "names": ["税務弘報"],
+    "abbrevs": ["税弘"]
+  },
+  {
+    "id": "JOURNAL-JMMRS7",
+    "display_name": "税資",
+    "names": ["税務訴訟資料"],
+    "abbrevs": ["税資", "税訴資料", "税務訴訟"]
+  },
+  {
+    "id": "JOURNAL-6VV1UG",
+    "display_name": "税法",
+    "names": ["税法学"],
+    "abbrevs": ["税法"]
+  },
+  {
+    "id": "JOURNAL-HCNY1Z",
+    "display_name": "",
+    "names": ["税理"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-J6U0PF",
+    "display_name": "立調",
+    "names": ["立法と調査"],
+    "abbrevs": ["立調"]
+  },
+  {
+    "id": "JOURNAL-B2E6IF",
+    "display_name": "第1審刑集",
+    "names": ["第一審刑事裁判例集", "第1審刑事裁判例集"],
+    "abbrevs": ["一審刑", "一審刑集", "第1審刑集"]
+  },
+  {
+    "id": "JOURNAL-VK43M3",
+    "display_name": "",
+    "names": ["経済法"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-T228VN",
+    "display_name": "罪罰",
+    "names": ["罪と罰"],
+    "abbrevs": ["罪罰"]
+  },
+  {
+    "id": "JOURNAL-P2L2RX",
+    "display_name": "自セ",
+    "names": ["自治実務セミナー"],
+    "abbrevs": ["自セ"]
+  },
+  {
+    "id": "JOURNAL-GZITYC",
+    "display_name": "自研",
+    "names": ["自治研究"],
+    "abbrevs": ["自研"]
+  },
+  {
+    "id": "JOURNAL-8XENOF",
+    "display_name": "自正",
+    "names": ["自由と正義"],
+    "abbrevs": ["自正"]
+  },
+  {
+    "id": "JOURNAL-E2SMDG",
+    "display_name": "空法",
+    "names": ["航空法務研究"],
+    "abbrevs": ["空法"]
+  },
+  {
+    "id": "JOURNAL-ABR3NC",
+    "display_name": "",
+    "names": ["著作権に関する判例速報"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-NMELGZ",
+    "display_name": "著研",
+    "names": ["著作権研究"],
+    "abbrevs": ["著研"]
+  },
+  {
+    "id": "JOURNAL-HN0ZUC",
+    "display_name": "行集",
+    "names": ["行政事件裁判例集"],
+    "abbrevs": ["行裁", "行裁集", "行裁例集", "行集"]
+  },
+  {
+    "id": "JOURNAL-A71I57",
+    "display_name": "行録",
+    "names": ["行政裁判所判決録"],
+    "abbrevs": ["行録"]
+  },
+  {
+    "id": "JOURNAL-YA3EKE",
+    "display_name": "行月",
+    "names": ["行政裁判月報"],
+    "abbrevs": ["行月"]
+  },
+  {
+    "id": "JOURNAL-2Y5A6H",
+    "display_name": "行財政",
+    "names": ["行財政研究"],
+    "abbrevs": ["行財政"]
+  },
+  {
+    "id": "JOURNAL-HM6XK7",
+    "display_name": "被害",
+    "names": ["被害者学研究"],
+    "abbrevs": ["被害"]
+  },
+  {
+    "id": "JOURNAL-PY0JL8",
+    "display_name": "裁時",
+    "names": ["裁判所時報"],
+    "abbrevs": ["裁時"]
+  },
+  {
+    "id": "JOURNAL-7HD5ED",
+    "display_name": "裁決事例集-or-事例集",
+    "names": ["国税不服審判所事例集"],
+    "abbrevs": ["裁決事例集", "事例集"]
+  },
+  {
+    "id": "JOURNAL-NP8IGL",
+    "display_name": "訟月",
+    "names": ["訟務月報"],
+    "abbrevs": ["訟月"]
+  },
+  {
+    "id": "JOURNAL-ME36NG",
+    "display_name": "調研",
+    "names": ["調研紀要"],
+    "abbrevs": ["調研"]
+  },
+  {
+    "id": "JOURNAL-9BRUKD",
+    "display_name": "警論",
+    "names": ["警察学論集"],
+    "abbrevs": ["警論"]
+  },
+  {
+    "id": "JOURNAL-73M0EZ",
+    "display_name": "警研",
+    "names": ["警察研究"],
+    "abbrevs": ["警研"]
+  },
+  {
+    "id": "JOURNAL-LELD6Q",
+    "display_name": "賃社",
+    "names": ["賃金と社会保障"],
+    "abbrevs": ["賃社"]
+  },
+  {
+    "id": "JOURNAL-M0G385",
+    "display_name": "資料商事法務-or-資料版商事",
+    "names": ["資料版商事法務", "資料版／商事法務"],
+    "abbrevs": ["資料版商事", "資料商事法務"]
+  },
+  {
+    "id": "JOURNAL-TDW924",
+    "display_name": "農法",
+    "names": ["農業法研究"],
+    "abbrevs": ["農法"]
+  },
+  {
+    "id": "JOURNAL-J1B7VY",
+    "display_name": "都問",
+    "names": ["都市問題"],
+    "abbrevs": ["都問"]
+  },
+  {
+    "id": "JOURNAL-16FZQR",
+    "display_name": "都研",
+    "names": ["都市問題研究"],
+    "abbrevs": ["都研"]
+  },
+  {
+    "id": "JOURNAL-V73GGP",
+    "display_name": "重判解",
+    "names": ["重要判例解説"],
+    "abbrevs": ["重判解"]
+  },
+  {
+    "id": "JOURNAL-AOQ071",
+    "display_name": "金判",
+    "names": ["金融・商事判例"],
+    "abbrevs": ["金判", "金商"]
+  },
+  {
+    "id": "JOURNAL-KLEGR9",
+    "display_name": "金融判研",
+    "names": ["金融判例研究"],
+    "abbrevs": ["金融判研"]
+  },
+  {
+    "id": "JOURNAL-O39GDM",
+    "display_name": "金法",
+    "names": ["金融法務事情"],
+    "abbrevs": ["金法"]
+  },
+  {
+    "id": "JOURNAL-UEOQSP",
+    "display_name": "金融法",
+    "names": ["金融法研究"],
+    "abbrevs": ["金融法"]
+  },
+  {
+    "id": "JOURNAL-62FNHZ",
+    "display_name": "銀法",
+    "names": ["銀行法務21"],
+    "abbrevs": ["銀法"]
+  },
+  {
+    "id": "JOURNAL-A5KMCA",
+    "display_name": "高地簡特",
+    "names": ["高等裁判所・地方裁判所・簡易裁判所民事裁判特報"],
+    "abbrevs": ["高地簡特"]
+  },
+  {
+    "id": "JOURNAL-JJ55YC",
+    "display_name": "高刑集",
+    "names": ["高等裁判所刑事判例集"],
+    "abbrevs": ["高刑", "高刑集", "高判集"]
+  },
+  {
+    "id": "JOURNAL-KEZEH0",
+    "display_name": "高刑判特",
+    "names": ["高等裁判所刑事判決特報"],
+    "abbrevs": [
+      "高刑判特",
+      "高刑集判特",
+      "高刑判特報",
+      "高刑判決特報",
+      "高刑集判特報",
+      "判特",
+      "高判特報"
+    ]
+  },
+  {
+    "id": "JOURNAL-IPGF1P",
+    "display_name": "高刑裁特",
+    "names": ["高等裁判所刑事裁判特報"],
+    "abbrevs": [
+      "高刑集裁判特報",
+      "高刑裁特",
+      "高刑裁判特報",
+      "高刑集裁特",
+      "高刑特",
+      "裁特"
+    ]
+  },
+  {
+    "id": "JOURNAL-YI8GCC",
+    "display_name": "高刑速報",
+    "names": ["高等裁判所刑事判決速報集", "高等裁判所刑事裁判速報集"],
+    "abbrevs": [
+      "高刑速",
+      "高刑速報集",
+      "高刑判速",
+      "高刑集判速",
+      "高刑集速報",
+      "高刑裁判速報",
+      "高刑速報",
+      "高検速報",
+      "高検速報集"
+    ]
+  },
+  {
+    "id": "JOURNAL-B5N40H",
+    "display_name": "高民集",
+    "names": ["高等裁判所民事判例集"],
+    "abbrevs": ["高民", "高民集"]
+  },
+  {
+    "id": "JOURNAL-76R6R4",
+    "display_name": "",
+    "names": ["先物取引判例集", "先物取引裁判例集"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-66YAHD",
+    "display_name": "法ニュース",
+    "names": ["消費者法ニュース"],
+    "abbrevs": ["法ニュース"]
+  },
+  {
+    "id": "JOURNAL-94N9AD",
+    "display_name": "生判",
+    "names": ["文研生命保険判例集", "生命保険判例集"],
+    "abbrevs": ["生判"]
+  },
+  {
+    "id": "JOURNAL-CYBOV7",
+    "display_name": "自保ジ",
+    "names": ["自動車保険ジャーナル", "自保ジャーナル"],
+    "abbrevs": ["自保ジ", "自保", "自保ジャ"]
+  },
+  {
+    "id": "JOURNAL-Y5388N",
+    "display_name": "",
+    "names": ["証券取引被害判例セレクト"],
+    "abbrevs": []
+  },
+  {
+    "id": "JOURNAL-I92S6T",
+    "display_name": "先例集",
+    "names": ["供託関係先例集"],
+    "abbrevs": ["先例集"]
+  },
+  {
+    "id": "JOURNAL-50EWAC",
+    "display_name": "判不競",
+    "names": ["判例不正競業法"],
+    "abbrevs": ["判不競"]
+  },
+  {
+    "id": "JOURNAL-PTB1AJ",
+    "display_name": "欠陥住宅判例",
+    "names": ["消費者のための欠陥住宅判例"],
+    "abbrevs": ["欠陥住宅判例"]
+  },
+  {
+    "id": "JOURNAL-UD7WI1",
+    "display_name": "論ジュリ",
+    "names": ["論究ジュリスト"],
+    "abbrevs": ["論ジュリ"]
+  },
+  {
+    "id": "JOURNAL-XKOUXM",
+    "display_name": "法協",
+    "names": ["法学協会雑誌"],
+    "abbrevs": ["法協"]
+  },
+  {
+    "id": "JOURNAL-ALIOFS",
+    "display_name": "論叢",
+    "names": ["法学論叢"],
+    "abbrevs": ["論叢"]
+  },
+  {
+    "id": "JOURNAL-5GY13Y",
+    "display_name": "速判解（法セ増刊）",
+    "names": ["速報判例解説（法学セミナー増刊）"],
+    "abbrevs": ["速判解（法セ増刊）"]
+  },
+  {
+    "id": "JOURNAL-RUH442",
+    "display_name": "新判解Watch",
+    "names": ["新・判例解説Watch（法学セミナー増刊）"],
+    "abbrevs": ["新判解Watch", "速判解"]
+  },
+  {
+    "id": "JOURNAL-BV3R4M",
+    "display_name": "税大論叢",
+    "names": ["税務大学校論叢"],
+    "abbrevs": ["税大論叢"]
+  },
+  {
+    "id": "JOURNAL-EAZAZ2",
+    "display_name": "刑ジャ",
+    "names": ["刑事法ジャーナル"],
+    "abbrevs": ["刑ジャ"]
+  },
+  {
+    "id": "JOURNAL-XIE088",
+    "display_name": "L&T",
+    "names": ["Law&Technology", "Law & Technology"],
+    "abbrevs": ["L&T"]
+  },
+  {
+    "id": "JOURNAL-PGZLZI",
+    "display_name": "判民",
+    "names": ["判例民事法"],
+    "abbrevs": ["判民"]
+  },
+  {
+    "id": "JOURNAL-MO6E6P",
+    "display_name": "総判研",
+    "names": ["総合判例研究叢書"],
+    "abbrevs": ["総判研"]
+  },
+  {
+    "id": "JOURNAL-DP9076",
+    "display_name": "商判研",
+    "names": ["商事判例研究"],
+    "abbrevs": ["商判研"]
+  },
+  {
+    "id": "JOURNAL-BR7SBI",
+    "display_name": "商事法判例研究",
+    "names": ["京都大学商法研究会編『商事法判例研究』"],
+    "abbrevs": ["商事法判例研究"]
+  },
+  {
+    "id": "JOURNAL-J0JRX6",
+    "display_name": "民事判例",
+    "names": ["現代民事判例研究会編『民事判例』"],
+    "abbrevs": ["民事判例"]
+  },
+  {
+    "id": "JOURNAL-RVMSGE",
+    "display_name": "判コメ",
+    "names": ["判例コンメンタール"],
+    "abbrevs": ["判コメ"]
+  },
+  {
+    "id": "JOURNAL-CL7K0E",
+    "display_name": "生経",
+    "names": ["生命保険経営"],
+    "abbrevs": ["生経"]
+  },
+  {
+    "id": "JOURNAL-M4QD9M",
+    "display_name": "保険レポ",
+    "names": ["保険事例研究会レポート"],
+    "abbrevs": ["保険レポ"]
+  },
+  {
+    "id": "JOURNAL-F8FA42",
+    "display_name": "税資徴収関係判決",
+    "names": [
+      "租税関係行政・民事判決集（徴収関係判決）",
+      "租税関係行政・民事判決集"
+    ],
+    "abbrevs": ["税資徴収関係判決"]
+  }
+]
