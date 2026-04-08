@@ -7,7 +7,7 @@
   },
   {
     "id": "JOURNAL-MX0LZ9",
-    "display_name": "",
+    "display_name": "NBL",
     "names": ["NBL"],
     "abbrevs": []
   },
@@ -19,7 +19,7 @@
   },
   {
     "id": "JOURNAL-LOZQL4",
-    "display_name": "",
+    "display_name": "エコノミスト",
     "names": ["エコノミスト"],
     "abbrevs": []
   },
@@ -157,13 +157,13 @@
   },
   {
     "id": "JOURNAL-A7VHSC",
-    "display_name": "",
+    "display_name": "保育情報",
     "names": ["保育情報"],
     "abbrevs": []
   },
   {
     "id": "JOURNAL-SFHCS5",
-    "display_name": "",
+    "display_name": "信託",
     "names": ["信託"],
     "abbrevs": []
   },
@@ -175,20 +175,14 @@
   },
   {
     "id": "JOURNAL-VMRM7Z",
-    "display_name": "",
+    "display_name": "公害等調整委員会",
     "names": ["公害等調整委員会"],
     "abbrevs": []
   },
   {
     "id": "JOURNAL-7FMJFJ",
-    "display_name": "",
-    "names": ["公害紛争処理白書"],
-    "abbrevs": []
-  },
-  {
-    "id": "JOURNAL-MD20BC",
-    "display_name": "",
-    "names": ["公害紛争処理白書平成元年版"],
+    "display_name": "公害紛争処理白書",
+    "names": ["公害紛争処理白書", "公害紛争処理白書平成元年版"],
     "abbrevs": []
   },
   {
@@ -217,7 +211,7 @@
   },
   {
     "id": "JOURNAL-3DNBH6",
-    "display_name": "",
+    "display_name": "公証",
     "names": ["公証"],
     "abbrevs": []
   },
@@ -241,7 +235,7 @@
   },
   {
     "id": "JOURNAL-WEYS7J",
-    "display_name": "",
+    "display_name": "刑政",
     "names": ["刑政"],
     "abbrevs": []
   },
@@ -321,8 +315,8 @@
   },
   {
     "id": "JOURNAL-TG29T3",
-    "display_name": "",
-    "names": ["判例集未登載"],
+    "display_name": "判例集未登載",
+    "names": ["判例集未登載", "判例集未掲載"],
     "abbrevs": []
   },
   {
@@ -339,7 +333,7 @@
   },
   {
     "id": "JOURNAL-S9NVXW",
-    "display_name": "",
+    "display_name": "労働保険審査会裁決集",
     "names": ["労働保険審査会裁決集"],
     "abbrevs": []
   },
@@ -352,8 +346,8 @@
   {
     "id": "JOURNAL-6I9I7L",
     "display_name": "労判",
-    "names": ["労働判例", "労働判例カード"],
-    "abbrevs": ["労判", "労判カード"]
+    "names": ["労働判例"],
+    "abbrevs": ["労判"]
   },
   {
     "id": "JOURNAL-J6QAJH",
@@ -363,7 +357,7 @@
   },
   {
     "id": "JOURNAL-PFE5OZ",
-    "display_name": "",
+    "display_name": "労働委員会関係裁判例集",
     "names": ["労働委員会関係裁判例集"],
     "abbrevs": []
   },
@@ -411,7 +405,7 @@
   },
   {
     "id": "JOURNAL-TPVVWP",
-    "display_name": "",
+    "display_name": "医療過誤民事裁判例集",
     "names": ["医療過誤民事裁判例集"],
     "abbrevs": []
   },
@@ -429,13 +423,13 @@
   },
   {
     "id": "JOURNAL-CK9TIX",
-    "display_name": "",
+    "display_name": "商事法務",
     "names": ["商事法務"],
     "abbrevs": []
   },
   {
     "id": "JOURNAL-WW771Z",
-    "display_name": "",
+    "display_name": "商事法務研究",
     "names": ["商事法務研究"],
     "abbrevs": []
   },
@@ -471,13 +465,13 @@
   },
   {
     "id": "JOURNAL-MIIIK3",
-    "display_name": "",
+    "display_name": "国際私法関係事件裁判例集",
     "names": ["国際私法関係事件裁判例集"],
     "abbrevs": []
   },
   {
     "id": "JOURNAL-P7YATD",
-    "display_name": "",
+    "display_name": "地方公務員人事判定集",
     "names": ["地方公務員人事判定集"],
     "abbrevs": []
   },
@@ -525,13 +519,13 @@
   },
   {
     "id": "JOURNAL-GZK2D8",
-    "display_name": "裁判例",
+    "display_name": "大審院裁判例",
     "names": ["大審院裁判例", "大審院裁判例（法律新聞別冊）"],
     "abbrevs": ["裁判例"]
   },
   {
     "id": "JOURNAL-8WD6PG",
-    "display_name": "",
+    "display_name": "大本七十年史編纂会・第2次大本教事件に関する資料（二）",
     "names": ["大本七十年史編纂会・第2次大本教事件に関する資料（二）"],
     "abbrevs": []
   },
@@ -573,13 +567,13 @@
   },
   {
     "id": "JOURNAL-LB3ZMS",
-    "display_name": "",
+    "display_name": "学校事故・学生処分判例集",
     "names": ["学校事故・学生処分判例集"],
     "abbrevs": []
   },
   {
     "id": "JOURNAL-EQPP3C",
-    "display_name": "",
+    "display_name": "官報",
     "names": ["官報"],
     "abbrevs": []
   },
@@ -609,7 +603,7 @@
   },
   {
     "id": "JOURNAL-TPTMHZ",
-    "display_name": "",
+    "display_name": "審決公報",
     "names": ["審決公報"],
     "abbrevs": []
   },
@@ -639,7 +633,7 @@
   },
   {
     "id": "JOURNAL-F2J286",
-    "display_name": "",
+    "display_name": "愛知学院大学宗教法制研究所紀要",
     "names": ["愛知学院大学宗教法制研究所紀要"],
     "abbrevs": []
   },
@@ -657,7 +651,7 @@
   },
   {
     "id": "JOURNAL-4M936E",
-    "display_name": "",
+    "display_name": "手形研究",
     "names": ["手形研究"],
     "abbrevs": []
   },
@@ -681,7 +675,7 @@
   },
   {
     "id": "JOURNAL-IV6WWQ",
-    "display_name": "",
+    "display_name": "損保企画",
     "names": ["損保企画"],
     "abbrevs": []
   },
@@ -693,13 +687,13 @@
   },
   {
     "id": "JOURNAL-6ZDWSO",
-    "display_name": "",
+    "display_name": "教職員人事関係裁判例集",
     "names": ["教職員人事関係裁判例集"],
     "abbrevs": []
   },
   {
     "id": "JOURNAL-G2PI8Z",
-    "display_name": "",
+    "display_name": "教育裁判判例集2",
     "names": ["教育裁判判例集Ⅱ", "教育裁判判例集II", "教育裁判判例集2"],
     "abbrevs": []
   },
@@ -741,7 +735,7 @@
   },
   {
     "id": "JOURNAL-SNOQMZ",
-    "display_name": "",
+    "display_name": "日本政治裁判史録（昭和・前）",
     "names": ["日本政治裁判史録（昭和・前）"],
     "abbrevs": []
   },
@@ -759,7 +753,7 @@
   },
   {
     "id": "JOURNAL-2O2XK4",
-    "display_name": "",
+    "display_name": "日本音楽著作権協会会報",
     "names": ["日本音楽著作権協会会報"],
     "abbrevs": []
   },
@@ -837,7 +831,7 @@
   },
   {
     "id": "JOURNAL-VDHZFG",
-    "display_name": "",
+    "display_name": "月刊生徒指導",
     "names": ["月刊生徒指導"],
     "abbrevs": []
   },
@@ -986,7 +980,7 @@
   },
   {
     "id": "JOURNAL-YOQQPA",
-    "display_name": "",
+    "display_name": "法学新報",
     "names": ["法学新報"],
     "abbrevs": []
   },
@@ -1004,7 +998,7 @@
   },
   {
     "id": "JOURNAL-4C0L2K",
-    "display_name": "",
+    "display_name": "法律新報",
     "names": ["法律新報"],
     "abbrevs": []
   },
@@ -1022,7 +1016,7 @@
   },
   {
     "id": "JOURNAL-GDNOST",
-    "display_name": "",
+    "display_name": "法曹",
     "names": ["法曹"],
     "abbrevs": []
   },
@@ -1034,7 +1028,7 @@
   },
   {
     "id": "JOURNAL-B62071",
-    "display_name": "",
+    "display_name": "法曹新聞",
     "names": ["法曹新聞"],
     "abbrevs": []
   },
@@ -1046,7 +1040,7 @@
   },
   {
     "id": "JOURNAL-6UWVJI",
-    "display_name": "",
+    "display_name": "海事法研究会誌",
     "names": ["海事法研究会誌"],
     "abbrevs": []
   },
@@ -1058,7 +1052,7 @@
   },
   {
     "id": "JOURNAL-GAL6P0",
-    "display_name": "",
+    "display_name": "特許と企業",
     "names": ["特許と企業"],
     "abbrevs": []
   },
@@ -1070,7 +1064,7 @@
   },
   {
     "id": "JOURNAL-UQGJL4",
-    "display_name": "特許",
+    "display_name": "特許管理",
     "names": ["特許管理", "特許管理別冊判例集"],
     "abbrevs": ["特許"]
   },
@@ -1094,7 +1088,7 @@
   },
   {
     "id": "JOURNAL-BA1L3V",
-    "display_name": "",
+    "display_name": "登記先例解説集",
     "names": ["登記先例解説集"],
     "abbrevs": []
   },
@@ -1136,13 +1130,13 @@
   },
   {
     "id": "JOURNAL-MV370Z",
-    "display_name": "",
+    "display_name": "研修",
     "names": ["研修"],
     "abbrevs": []
   },
   {
     "id": "JOURNAL-8GTQQJ",
-    "display_name": "",
+    "display_name": "社会保険審査会裁決集",
     "names": ["社会保険審査会裁決集"],
     "abbrevs": []
   },
@@ -1154,7 +1148,7 @@
   },
   {
     "id": "JOURNAL-XTYIX1",
-    "display_name": "",
+    "display_name": "私法",
     "names": ["私法"],
     "abbrevs": []
   },
@@ -1196,7 +1190,7 @@
   },
   {
     "id": "JOURNAL-HCNY1Z",
-    "display_name": "",
+    "display_name": "税理",
     "names": ["税理"],
     "abbrevs": []
   },
@@ -1214,7 +1208,7 @@
   },
   {
     "id": "JOURNAL-VK43M3",
-    "display_name": "",
+    "display_name": "経済法",
     "names": ["経済法"],
     "abbrevs": []
   },
@@ -1250,7 +1244,7 @@
   },
   {
     "id": "JOURNAL-ABR3NC",
-    "display_name": "",
+    "display_name": "著作権に関する判例速報",
     "names": ["著作権に関する判例速報"],
     "abbrevs": []
   },
@@ -1455,7 +1449,7 @@
   },
   {
     "id": "JOURNAL-76R6R4",
-    "display_name": "",
+    "display_name": "先物取引裁判例集",
     "names": ["先物取引判例集", "先物取引裁判例集"],
     "abbrevs": []
   },
@@ -1479,7 +1473,7 @@
   },
   {
     "id": "JOURNAL-Y5388N",
-    "display_name": "",
+    "display_name": "証券取引被害判例セレクト",
     "names": ["証券取引被害判例セレクト"],
     "abbrevs": []
   },
