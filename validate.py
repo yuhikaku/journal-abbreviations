@@ -1,5 +1,6 @@
 import collections
 import json
+import re
 
 
 def main() -> None:
@@ -25,6 +26,11 @@ def main() -> None:
         for item, count in collections.Counter(item_list).items():
             if count != 1:
                 raise ValueError(f"{name}で「{item}」が{count}件重複しています。")
+
+    for jid in all_ids:
+        _, suffix = jid.split("-")
+        if not re.fullmatch(r"[A-Z0-9]{6}", suffix):
+            raise ValueError(f"{jid}: IDの文字数が正しくありません")
 
     print("問題は検出されませんでした")
 
