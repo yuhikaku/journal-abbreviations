@@ -14,9 +14,11 @@
 | `abbrevs` | 略称（表記揺れを配列で表現） |
 
 
+[`validate.py`](./validate.py) によってID・名称・略称に重複がないことを確認しています。
+
 ## [`journals.csv`](./journals.csv)
 
-- [`journals.json`](./journals.json) を変換したCSVファイルです
+- [`journals.json`](./journals.json) を [`csvnize.py`](./csvnize.py) によって変換したCSVファイルです
 - 略称か否かを `abbrev_flag` 列で表現しています（1=略称）
 
 
