@@ -193,6 +193,7 @@ NBL,NBL,JOURNAL-MX0LZ9,0
 季刊人事行政,季人,JOURNAL-YFVU2L,0
 季人,季人,JOURNAL-YFVU2L,1
 季刊債権管理,債管,JOURNAL-2DNEA1,0
+事業再生と債権管理,債管,JOURNAL-2DNEA1,0
 債管,債管,JOURNAL-2DNEA1,1
 季刊刑事弁護,刑弁,JOURNAL-NZEN1M,0
 刑弁,刑弁,JOURNAL-NZEN1M,1
@@ -270,6 +271,8 @@ NBL,NBL,JOURNAL-MX0LZ9,0
 著判,著判,JOURNAL-M2XAD8,1
 最高裁判所・高等裁判所民事判例要旨集,最高民要旨,JOURNAL-BJ4BPY,0
 最高民要旨,最高民要旨,JOURNAL-BJ4BPY,1
+最高裁判所・高等裁判所刑事判例要旨集,最高刑要旨,JOURNAL-9E5FEB,0
+最高刑要旨,最高刑要旨,JOURNAL-9E5FEB,1
 最高裁判所刑事判例集,刑集,JOURNAL-AL9B7Z,0
 大審院刑事判例集,刑集,JOURNAL-AL9B7Z,0
 刑集,刑集,JOURNAL-AL9B7Z,1
@@ -293,6 +296,7 @@ NBL,NBL,JOURNAL-MX0LZ9,0
 監査,監査,JOURNAL-63LM8N,1
 朝鮮高等法院判決録,朝高録,JOURNAL-3OPVMD,0
 朝高録,朝高録,JOURNAL-3OPVMD,1
+東京高等裁判所判決時報（刑事）,東高刑時報,JOURNAL-IY9LGB,0
 東京高等裁判所判決時報　刑事,東高刑時報,JOURNAL-IY9LGB,0
 東京高等裁判所判決時報刑事,東高刑時報,JOURNAL-IY9LGB,0
 東京高等裁判所刑事判決時報,東高刑時報,JOURNAL-IY9LGB,0
@@ -303,6 +307,7 @@ NBL,NBL,JOURNAL-MX0LZ9,0
 東高刑,東高刑時報,JOURNAL-IY9LGB,1
 東高時報,東高刑時報,JOURNAL-IY9LGB,1
 東高判時報,東高刑時報,JOURNAL-IY9LGB,1
+東京高等裁判所判決時報（民事）,東高民時報,JOURNAL-1LEJQY,0
 東京高等裁判所判決時報　民事,東高民時報,JOURNAL-1LEJQY,0
 東京高等裁判所判決時報民事,東高民時報,JOURNAL-1LEJQY,0
 東京高等裁判所民事判決時報,東高民時報,JOURNAL-1LEJQY,0
@@ -367,6 +372,7 @@ NBL,NBL,JOURNAL-MX0LZ9,0
 法社,法社,JOURNAL-L0T7VQ,1
 海事法研究会誌,海事法研究会誌,JOURNAL-6UWVJI,0
 無体財産権関係民事・行政裁判例集,無体裁集,JOURNAL-0M4ZH5,0
+無体財産関係民事・行政裁判例集,無体裁集,JOURNAL-0M4ZH5,0
 無体集,無体裁集,JOURNAL-0M4ZH5,1
 無体例集,無体裁集,JOURNAL-0M4ZH5,1
 無体裁集,無体裁集,JOURNAL-0M4ZH5,1
@@ -390,7 +396,7 @@ NBL,NBL,JOURNAL-MX0LZ9,0
 登研,登研,JOURNAL-Q301HJ,1
 登記関係先例集,登記先例,JOURNAL-DLD88F,0
 登記先例,登記先例,JOURNAL-DLD88F,1
-直税国税課税判決要旨集,直税要集,JOURNAL-QXSG1F,0
+直接国税課税判決要旨集,直税要集,JOURNAL-QXSG1F,0
 直税要集,直税要集,JOURNAL-QXSG1F,1
 知的財産権関係民事・行政裁判例集,知的裁集,JOURNAL-6HM498,0
 知財集,知的裁集,JOURNAL-6HM498,1
@@ -473,6 +479,7 @@ NBL,NBL,JOURNAL-MX0LZ9,0
 資料版／商事法務,資料版商事法務,JOURNAL-M0G385,0
 資料版商事,資料版商事法務,JOURNAL-M0G385,1
 資料商事法務,資料版商事法務,JOURNAL-M0G385,1
+資料商事,資料版商事法務,JOURNAL-M0G385,1
 農業法研究,農法,JOURNAL-TDW924,0
 農法,農法,JOURNAL-TDW924,1
 都市問題,都問,JOURNAL-J1B7VY,0
@@ -498,6 +505,10 @@ NBL,NBL,JOURNAL-MX0LZ9,0
 高刑,高刑集,JOURNAL-JJ55YC,1
 高刑集,高刑集,JOURNAL-JJ55YC,1
 高判集,高刑集,JOURNAL-JJ55YC,1
+東京高等裁判所判決特報（刑事）,東高刑特,JOURNAL-D17EF4,0
+東京高等裁判所判決特報刑事,東高刑特,JOURNAL-D17EF4,0
+東京高等裁判所判決特報　刑事,東高刑特,JOURNAL-D17EF4,0
+東高刑特,東高刑特,JOURNAL-D17EF4,1
 高等裁判所刑事判決特報,高刑判特,JOURNAL-KEZEH0,0
 高刑判特,高刑判特,JOURNAL-KEZEH0,1
 高刑集判特,高刑判特,JOURNAL-KEZEH0,1
@@ -515,6 +526,7 @@ NBL,NBL,JOURNAL-MX0LZ9,0
 裁特,高刑裁特,JOURNAL-IPGF1P,1
 高等裁判所刑事判決速報集,高刑速報,JOURNAL-YI8GCC,0
 高等裁判所刑事裁判速報集,高刑速報,JOURNAL-YI8GCC,0
+高等裁判所刑事裁判速報,高刑速報,JOURNAL-YI8GCC,0
 高刑速,高刑速報,JOURNAL-YI8GCC,1
 高刑速報集,高刑速報,JOURNAL-YI8GCC,1
 高刑判速,高刑速報,JOURNAL-YI8GCC,1
@@ -548,6 +560,7 @@ NBL,NBL,JOURNAL-MX0LZ9,0
 欠陥住宅判例,欠陥住宅判例,JOURNAL-PTB1AJ,1
 論究ジュリスト,論ジュリ,JOURNAL-UD7WI1,0
 論ジュリ,論ジュリ,JOURNAL-UD7WI1,1
+論究ジュリ,論ジュリ,JOURNAL-UD7WI1,1
 法学協会雑誌,法協,JOURNAL-XKOUXM,0
 法協,法協,JOURNAL-XKOUXM,1
 法学論叢,論叢,JOURNAL-ALIOFS,0
