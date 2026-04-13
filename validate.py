@@ -5,22 +5,22 @@ import re
 
 def main() -> None:
     all_ids = []
-    all_display_names = []
+    all_canonical_names = []
     tokens = []
 
     with open("journals.json", "r", encoding="utf-8") as f:
         content = json.load(f)
         for data in content:
             all_ids.append(data["id"])
-            all_display_names.append(data["display_name"])
+            all_canonical_names.append(data["canonical_name"])
             tokens.extend(data["names"])
-            abbrevs = [a for a in data["abbrevs"] if a != ""]
-            if len(abbrevs) != 0:
-                tokens.extend(abbrevs)
+            for abbrev in data["abbrevs"]:
+                if abbrev != "":
+                    tokens.append(abbrev)
 
     for name, item_list in {
         "id": all_ids,
-        "display_name": all_display_names,
+        "canonical_name": all_canonical_names,
         "token": tokens,
     }.items():
         for item, count in collections.Counter(item_list).items():
